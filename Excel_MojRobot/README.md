@@ -1,3 +1,5 @@
+![image](https://github.com/koreugene95/DataAnalyst/assets/159468267/48bc9dfc-c2fb-4a72-8d20-4b87e2e7a47b)
+
    # 1 Введение
 
 #### 1.1 Цель проекта: 
