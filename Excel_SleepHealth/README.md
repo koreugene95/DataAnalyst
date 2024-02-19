@@ -1,2 +1,3 @@
-![image](https://github.com/koreugene95/DataAnalyst/assets/159468267/7a621249-a431-468d-935c-ec2899288b13)
+![image](https://github.com/koreugene95/DataAnalyst/assets/159468267/e622d5eb-28da-4032-b603-e7eb589527b9)
+
 
